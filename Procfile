@@ -1,2 +1,1 @@
-worker: node .
-worker: npm i
+worker: npm install && node .
